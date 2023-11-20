@@ -10,3 +10,4 @@ public class SpringBootProfilingApplication {
 		SpringApplication.run(SpringBootProfilingApplication.class, args);
 	}
 }
+
